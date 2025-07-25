@@ -1,5 +1,5 @@
-# joel_git
+# titulo del proyecto
 primer repositorio creado en github
 
 ## descripcion
-esto es un repo 
+descripcion del proyecto
